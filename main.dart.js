@@ -38547,7 +38547,7 @@ n=o.d
 m=B.b.gbu(n).Q
 m.toString
 o.ha(m,B.cI,A.c5(0,300))
-m=A.o4("https://chatserver2-ys6k34qme-vinayak-n-magajikondi.vercel.app/get_answer")
+m=A.o4("https://chatserver-drab.vercel.app/get_answer")
 l=t.N
 k=A.aF(["Content-Type","application/json; charset=UTF-8"],l,l)
 s=3
